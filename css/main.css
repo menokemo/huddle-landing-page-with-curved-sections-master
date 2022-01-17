@@ -407,6 +407,10 @@
             border: none;
         }
         
+        form input[type="text"]::placeholder {
+            display: none;
+        }
+        
         form input[type="submit"] {
             background-color: var(--Pink);
             color: white;
