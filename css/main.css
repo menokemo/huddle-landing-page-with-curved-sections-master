@@ -408,7 +408,7 @@
         }
         
         form input[type="text"]::placeholder {
-            display: none;
+            color: transparent;
         }
         
         form input[type="submit"] {
